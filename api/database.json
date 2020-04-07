@@ -1,0 +1,50 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "model": "Macbook Pro",
+            "year": 2015
+        },
+        {
+            "id": 2,
+            "model": "ASUS Q405UA ",
+            "year": 2018
+        },
+        {
+            "id": 3,
+            "model": "Surface Laptop 3",
+            "year": 2019
+        },
+        {
+            "id": 4,
+            "model": "Lenovo IdeaPad",
+            "year": 2017
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Jayson",
+            "lastName": "Rice",
+            "computerId": 2
+        },
+        {
+            "id": 2,
+            "firstName": "Lindsey",
+            "lastName": "King",
+            "computerId": 1
+        },
+        {
+            "id": 3,
+            "firstName": "Rachael",
+            "lastName": "Wilkinson",
+            "computerId": 4
+        },
+        {
+            "id": 4,
+            "firstName": "Tyler",
+            "lastName": "O'Connell",
+            "computerId": 3
+        }
+    ]
+}
