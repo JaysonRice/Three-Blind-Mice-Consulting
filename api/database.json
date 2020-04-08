@@ -26,24 +26,28 @@
             "id": 1,
             "firstName": "Jayson",
             "lastName": "Rice",
+            "age": 24,
             "computerId": 2
         },
         {
             "id": 2,
             "firstName": "Lindsey",
             "lastName": "King",
+            "age": 25,
             "computerId": 1
         },
         {
             "id": 3,
             "firstName": "Rachael",
             "lastName": "Wilkinson",
+            "age": 23,
             "computerId": 4
         },
         {
             "id": 4,
             "firstName": "Tyler",
             "lastName": "O'Connell",
+            "age": 25,
             "computerId": 3
         }
     ]
