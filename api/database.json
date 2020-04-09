@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "departmentName": "Quallity Assurance"
+            "departmentName": "Quality Assurance"
         },
         {
             "id": 3,
@@ -46,7 +46,8 @@
             "lastName": "Rice",
             "age": 24,
             "computerId": 2,
-            "departmentId": 4
+            "departmentId": 4,
+            "locationId": 1
         },
         {
             "id": 2,
@@ -54,7 +55,8 @@
             "lastName": "King",
             "age": 25,
             "computerId": 1,
-            "departmentId": 3
+            "departmentId": 3,
+            "locationId": 1
         },
         {
             "id": 3,
@@ -62,7 +64,8 @@
             "lastName": "Wilkinson",
             "age": 23,
             "computerId": 4,
-            "departmentId": 1
+            "departmentId": 1,
+            "locationId": 2
         },
         {
             "id": 4,
@@ -70,7 +73,22 @@
             "lastName": "O'Connell",
             "age": 25,
             "computerId": 3,
-            "departmentId": 2
+            "departmentId": 2,
+            "locationId": 3
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "city": "Johnson City"
+        },
+        {
+            "id": 2,
+            "city": "Chattanooga"
+        },
+        {
+            "id": 3,
+            "city": "Knoxville"
         }
     ]
 }
