@@ -77,6 +77,66 @@
             "locationId": 3
         }
     ],
+    "customers": [
+        {
+            "id": 1,
+            "business": "Crown Labs"
+        },
+        {
+            "id": 2,
+            "business": "Ballad Health"
+        },
+        {
+            "id": 3,
+            "business": "Cloud Inc"
+        },
+        {
+            "id": 4,
+            "business": "Unfair Fun Fair"
+        }
+    ],
+    "customerEmployees": [
+        {
+            "id": 1,
+            "employeeId": 1,
+            "customerId": 2
+        },
+        {
+            "id": 2,
+            "employeeId": 1,
+            "customerId": 3
+        },
+        {
+            "id": 3,
+            "employeeId": 2,
+            "customerId": 4
+        },
+        {
+            "id": 4,
+            "employeeId": 2,
+            "customerId": 1
+        },
+        {
+            "id": 5,
+            "employeeId": 3,
+            "customerId": 2
+        },
+        {
+            "id": 6,
+            "employeeId": 3,
+            "customerId": 1
+        },
+        {
+            "id": 7,
+            "employeeId": 4,
+            "customerId": 3
+        },
+        {
+            "id": 8,
+            "employeeId": 4,
+            "customerId": 4
+        }
+    ],
     "locations": [
         {
             "id": 1,
